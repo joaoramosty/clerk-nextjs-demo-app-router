@@ -21,6 +21,7 @@ export default async function DashboardPage() {
           <div>
             <header className="flex gap-4 h-16 justify-between items-center w-full">
               <div className="flex gap-4">
+                <h1>Dashboard</h1>
                 <a href="https://clerk.com/docs" target="_blank">
                   <svg
                     width="24"
